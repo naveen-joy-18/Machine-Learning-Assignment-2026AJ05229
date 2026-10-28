@@ -59,7 +59,7 @@ The goal of this project is to develop, evaluate, and deploy an end-to-end Machi
 ## c. GitHub Repository Link
 
 - **GitHub Repository:** (https://github.com/naveen-joy-18/Machine-Learning-Assignment-2026AJ05229.git)
-- **Live Streamlit App:** (https://ml-assignment-2-online-shoppers-2026aj05229.streamlit.app/)
+- **Live Streamlit App:** (https://machine-learning-assignment-2026aj05229git-ikh5op7spzy4wus2bfj.streamlit.app/)
 
 ### Repository Structure
 
