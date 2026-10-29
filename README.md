@@ -148,7 +148,7 @@ All five classification models were trained on the exact same 80% stratified tra
    ```
 4. **Run the Streamlit application:**
    ```bash
-   streamlit run app.py
+   streamlit run streamlit_app.py
    ```
 5. Open your browser at `http://localhost:8501`.
 
