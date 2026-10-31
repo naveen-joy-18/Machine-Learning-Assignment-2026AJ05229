@@ -151,18 +151,3 @@ All five classification models were trained on the exact same 80% stratified tra
    streamlit run streamlit_app.py
    ```
 5. Open your browser at `http://localhost:8501`.
-
-### 2. Streamlit Community Cloud Deployment
-
-1. Push your complete code to a public GitHub repository.
-2. Visit [https://streamlit.io/cloud](https://streamlit.io/cloud) and sign in with your GitHub account.
-3. Click **"New App"**.
-4. Select your repository, specify the branch (usually `main`), and set the main file path to `app.py`.
-5. Click **"Deploy"**. The app will be live within 2 minutes!
-
----
-
-## f. Academic Integrity & Anti-Plagiarism Compliance
-
-- **Independent Implementation:** Dataset selection, feature engineering pipelines, model hyperparameter tuning, evaluation matrices, and Streamlit frontend styling were developed from first principles.
-- **Reproducibility:** All artifacts are pre-trained and serialized using `joblib`. The training script `train_models.py` and interactive notebook `model/model_training.ipynb` provide complete transparency and 100% deterministic reproducibility.
